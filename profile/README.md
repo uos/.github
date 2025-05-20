@@ -9,7 +9,7 @@ We focus on cutting-edge research in robotics, 3D navigation, localization, and 
 A selection of our research projects:
 
 ### Simulation
-- [rmagine](https://github.com/uos/rmagine) – Fast simulation of sensors in 3D environments. [[ICRA 2023]](https://ieeexplore.ieee.org/document/10161388)
+- [rmagine](https://github.com/uos/rmagine) – Fast simulation of range sensors in 3D environments. [[ICRA 2023]](https://ieeexplore.ieee.org/document/10161388)
 - [radarays](https://github.com/uos/radarays_ros) – Ray-based simulation for FMCW radars in ROS. [[RA-L 2025]](https://ieeexplore.ieee.org/document/10845807)
 
 ### 3D Navigation
