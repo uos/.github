@@ -9,13 +9,13 @@ We focus on cutting-edge research in robotics, 3D navigation, localization, and 
 A selection of our research projects:
 
 ### Simulation
-- [rmagine](https://github.com/uos/rmagine) – Fast simulation of range sensors in 3D environments. [[ICRA 2023]](https://ieeexplore.ieee.org/document/10161388)
-- [radarays](https://github.com/uos/radarays_ros) – Ray-based simulation for FMCW radars in ROS. [[RA-L 2025]](https://ieeexplore.ieee.org/document/10845807)
+- [rmagine](https://github.com/uos/rmagine) – Fast ray casting-based simulation of range sensors in 3D environments. [[ICRA 2023]](https://ieeexplore.ieee.org/document/10161388)
+- [RadaRays](https://github.com/uos/radarays_ros) – Ray tracing-based simulation of spinning FMCW radars. [[RA-L 2025]](https://ieeexplore.ieee.org/document/10845807)
 
 ### 3D Navigation
-- [mesh_navigation](https://github.com/naturerobots/mesh_navigation) – Navigation over 3D triangle mesh surfaces. [[ICRA 2021]](https://ieeexplore.ieee.org/document/9560981)
-- [tsdf_localization](https://github.com/uos/tsdf_localization) – 6-DoF localization in TSDF-based 3D maps. [[IRC 2023]](https://ieeexplore.ieee.org/document/10473560) [[IJSC 2025]](https://doi.org/10.1142/S1793351X25410053)
-- [rmcl](https://github.com/uos/rmcl) – Mobile Robot Localization in 3D Triangle Meshes / Geometric Scene Graphs. [[IROS 2024]](https://ieeexplore.ieee.org/document/10802360)
+- [MeshNav](https://github.com/naturerobots/mesh_navigation) – Navigation over 3D triangle mesh surfaces. [[ICRA 2021]](https://ieeexplore.ieee.org/document/9560981)
+- [TSDF-MCL](https://github.com/uos/tsdf_localization) – 6-DoF localization in TSDF-based 3D maps. [[IRC 2023]](https://ieeexplore.ieee.org/document/10473560) [[IJSC 2025]](https://doi.org/10.1142/S1793351X25410053)
+- [RMCL](https://github.com/uos/rmcl) – Mobile Robot Localization in 3D Triangle Meshes / Geometric Scene Graphs. [[IROS 2024]](https://ieeexplore.ieee.org/document/10802360)
 
 ### SLAM
 - [warpsense/featsense](https://github.com/juliangaal/warpsense) – GPU-implementation of HATSDF-SLAM and F-LOAM based TSDF-Mapping. [[IRC 2023]](https://ieeexplore.ieee.org/document/10473569)
