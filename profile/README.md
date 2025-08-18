@@ -1,6 +1,6 @@
-# Osnabrück University – Mobile Robotics
+# Osnabrück University (UOS) – Mobile Robotics
 
-Welcome to the official GitHub for open source mobile robot software developed at the Osnabrück University.
+Welcome to the official GitHub for open source mobile robot software developed at the Osnabrück University (UOS).
 
 We focus on cutting-edge research in robotics, 3D navigation, localization, and simulation. Our repositories offer tools and frameworks to support autonomous systems in unstructured environments.
 
@@ -37,7 +37,7 @@ A selection of our research projects:
 
 ## Involved Research Groups
 
-This organization is shared with research groups at Osnabrück University working in the field of mobile robotics.
+This organization is shared with research groups at Osnabrück University (UOS) working in the field of mobile robotics.
 
 ### Knowledge-Based Systems
 - Website: [kbs.informatik.uos.de](https://kbs.informatik.uni-osnabrueck.de)
