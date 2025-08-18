@@ -1,4 +1,4 @@
-# Osnabrück University (UOS) – Mobile Robotics
+# UOS – Mobile Robotics
 
 Welcome to the official GitHub for open source mobile robot software developed at the Osnabrück University (UOS).
 
