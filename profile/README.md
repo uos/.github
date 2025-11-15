@@ -14,6 +14,7 @@ A selection of our research projects:
 
 ### 3D Navigation
 - [MeshNav](https://github.com/naturerobots/mesh_navigation) – Navigation over 3D triangle mesh surfaces. [[ICRA 2021]](https://ieeexplore.ieee.org/document/9560981)
+    - [MeshMPPI](https://github.com/uos/mesh_mppi) – Model predictive control on surface meshes & dynamic obstacle avoidance.
 - [TSDF-MCL](https://github.com/uos/tsdf_localization) – 6-DoF localization in TSDF-based 3D maps. [[IRC 2023]](https://ieeexplore.ieee.org/document/10473560) [[IJSC 2025]](https://doi.org/10.1142/S1793351X25410053)
 - [RMCL](https://github.com/uos/rmcl) – Mobile Robot Localization in 3D Triangle Meshes / Geometric Scene Graphs. [[IROS 2024]](https://ieeexplore.ieee.org/document/10802360)
 
