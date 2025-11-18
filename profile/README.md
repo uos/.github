@@ -32,7 +32,7 @@ A selection of our research projects:
 
 ## Tools
 
-- [minot](https://github.com/uos/minot) – Primitives for developing and validating stateful robot software.
+- [minot](https://github.com/uos/minot) – Primitives for developing and validating stateful robot software. [[ROSCon Fr & De 2025]](https://roscon.ros.org/de/2025/)
 - [uos_tools](https://github.com/uos/uos_tools) – Utility scripts and packages for robotics development.
 - [ReconfROS](https://github.com/uos/ReconfROS) – Running ROS on Reconfigurable SoCs. [[DroneSE and RAPIDO '21]](https://dl.acm.org/doi/10.1145/3444950.3444959)
 - [mesh_tools](https://github.com/naturerobots/mesh_tools) – Tools and Messages for Annotated 3D Triangle Meshes in ROS. [[Robotics and Autonomous Systems 2021]](https://doi.org/10.1016/j.robot.2020.103688)
