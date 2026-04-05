@@ -13,7 +13,7 @@ A selection of our research projects:
 - [RadaRays](https://github.com/uos/radarays_ros) – Ray tracing-based simulation of spinning FMCW radars. [[RA-L 2025]](https://ieeexplore.ieee.org/document/10845807)
 
 ### 3D Navigation
-- [MeshNav](https://github.com/naturerobots/mesh_navigation) – Navigation over 3D triangle mesh surfaces. [[ICRA 2021]](https://ieeexplore.ieee.org/document/9560981)
+- [MeshNav](https://github.com/naturerobots/mesh_navigation) – Navigation over 3D triangle mesh surfaces. [[IAV 2016]](https://www.sciencedirect.com/science/article/pii/S2405896316310102) [[ICRA 2021]](https://ieeexplore.ieee.org/document/9560981)
 - [MeshMPPI](https://github.com/uos/mesh_mppi) – Model predictive control on surface meshes & dynamic obstacle avoidance.
 
 ### Map-based Localization
