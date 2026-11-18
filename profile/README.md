@@ -21,6 +21,7 @@ A selection of our research projects:
 - [RMCL](https://github.com/uos/rmcl) – Mobile Robot Localization in 3D Triangle Meshes / Geometric Scene Graphs. [[IROS 2024]](https://ieeexplore.ieee.org/document/10802360)
 
 ### SLAM
+- [Pelorus](https://github.com/uos/pelorus) – Resource-Aware Lidar-Inertial Odometry written in Rust, CUDA, Metal and Vulkan. [[arXiv]](https://arxiv.org/abs/2611.22850)
 - [warpsense/featsense](https://github.com/juliangaal/warpsense) – GPU-implementation of HATSDF-SLAM and F-LOAM based TSDF-Mapping. [[IRC 2023]](https://ieeexplore.ieee.org/document/10473569)
 - [HATSDF-SLAM](https://github.com/uos/hatsdf_slam) – A fully integrated system for hardware-accelerated TSDF SLAM with LiDAR sensors. [[Robotics and Autonomous Systems 2022]](https://doi.org/10.1016/j.robot.2022.104205)
 
